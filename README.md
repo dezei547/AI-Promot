@@ -51,5 +51,14 @@ python funasr_tray_app.py
   <br>
   <strong>AI-Promot 智能提词器界面</strong>
 </div>
-(演示.mp4)
+## 🎥 功能演示
+
+<div align="center">
+  <video width="600" controls>
+    <source src="演示.mp4" type="video/mp4">
+    您的浏览器不支持视频播放。
+  </video>
+  <br>
+  <em>实时语音识别演示 - 边说边显示，延迟低于200ms</em>
+</div>
 
