@@ -42,6 +42,7 @@ python funasr_tray_app.py
 链接: https://pan.baidu.com/s/1x9XPEtSe4JvHP4s_M9scZA?pwd=zdk8 提取码: zdk8 
 --来自百度网盘超级会员v5的分享
 
-### 3. 演示
-<img width="1142" height="927" alt="屏幕截图 2025-11-12 122329" src="https://github.com/user-attachments/assets/d06c9be2-2303-471a-9c4a-0b10aa308bf7" />
+
+(assets/ui.png)
+
 
