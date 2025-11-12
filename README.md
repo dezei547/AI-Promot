@@ -42,7 +42,14 @@ python funasr_tray_app.py
 链接: https://pan.baidu.com/s/1x9XPEtSe4JvHP4s_M9scZA?pwd=zdk8 提取码: zdk8 
 --来自百度网盘超级会员v5的分享
 
+```
 
-(assets/ui.png)
+## 界面预览
+
+<div align="center">
+  <img src="assets/ui.png" alt="AI-Promot 主界面" width="600">
+  <br>
+  <strong>AI-Promot 智能提词器界面</strong>
+</div>
 
 
