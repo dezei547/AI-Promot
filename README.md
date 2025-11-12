@@ -53,12 +53,9 @@ python funasr_tray_app.py
 </div>
 ## 🎥 功能演示
 
-<div align="center">
-  <video width="600" controls>
-    <source src="演示.mp4" type="video/mp4">
-    您的浏览器不支持视频播放。
-  </video>
-  <br>
-  <em>实时语音识别演示 - 边说边显示，延迟低于200ms</em>
-</div>
+
+
+https://github.com/user-attachments/assets/c6978792-cb7d-418f-8d5a-1f94e6558ea7
+
+
 
