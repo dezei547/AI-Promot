@@ -51,5 +51,5 @@ python funasr_tray_app.py
   <br>
   <strong>AI-Promot 智能提词器界面</strong>
 </div>
-
+(演示.mp4)
 
