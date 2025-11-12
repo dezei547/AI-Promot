@@ -19,6 +19,7 @@ workspace/log_ngp.txt
 
 Miniconda3/
 hf_download/
+py312/
 
 *.pth
 *.pt
