@@ -35,3 +35,8 @@ pip install -r requirements.txt
 ### 4. 运行应用
 conda activate myenv
 python funasr_tray_app.py
+
+###5. 下载运行下面exe文件
+通过网盘分享的文件：AI-Prompt Setup 3.0.0.exe
+链接: https://pan.baidu.com/s/1x9XPEtSe4JvHP4s_M9scZA?pwd=zdk8 提取码: zdk8 
+--来自百度网盘超级会员v5的分享
